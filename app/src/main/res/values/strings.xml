@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">CheckBoxes RadioButtons Switches Slider RangeSlider</string>
+
+
+    <string name="play">PLAY</string>
+    <string name="headerPart">Выберите фильм</string>
+    <string name="yourSelected">Вы выбрали</string>
+    <string name="series">серию</string>
+    <string name="action">Идет выбор</string>
+    <string name="beforeAction">Фильм доступен к просмотру</string>
+    <string name="name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
